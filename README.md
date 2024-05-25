@@ -8,6 +8,8 @@
 
 项目集成了视频自动化处理，该部分使用了Ffmpeg，Ffmpeg环境部分需要自动配置
 
+项目前端：[AutoVideo-Vue](https://github.com/issj6/AutoVideo-Vue)
+
 ### 主要工具：
 
 - Django DRF
